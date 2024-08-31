@@ -22,8 +22,7 @@ A real-time video meeting application built using React and Socket.IO. This appl
 
     ```bash
     git clone https://github.com/PK2371/Video_Meet_App.git
-    cd video-meet-app
-    ```
+    cd Video_Meet_App
 
 2. Install dependencies:
 
